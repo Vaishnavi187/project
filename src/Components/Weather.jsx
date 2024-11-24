@@ -40,7 +40,7 @@ const handlesubmittion=(e)=>{
                 onChange={(e)=>SetCityName(e.target.value)}
                 placeholder='Search here....' />
 
-          <button className="btn btn-outline mt-2 rounded-2xl"><FaSearch/></button>
+          <button className="btn btn-outline mt-2 rounded-2xl text-white"><FaSearch/></button>
 
             </form>
              
